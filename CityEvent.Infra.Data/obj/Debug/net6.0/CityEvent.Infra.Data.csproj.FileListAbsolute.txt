@@ -1,0 +1,15 @@
+C:\Users\Rodrigo_Freire\source\repos\API_CityEvent\CityEvent.Infra.Data\bin\Debug\net6.0\CityEvent.Infra.Data.deps.json
+C:\Users\Rodrigo_Freire\source\repos\API_CityEvent\CityEvent.Infra.Data\bin\Debug\net6.0\CityEvent.Infra.Data.dll
+C:\Users\Rodrigo_Freire\source\repos\API_CityEvent\CityEvent.Infra.Data\bin\Debug\net6.0\CityEvent.Infra.Data.pdb
+C:\Users\Rodrigo_Freire\source\repos\API_CityEvent\CityEvent.Infra.Data\bin\Debug\net6.0\CityEvent.Core.dll
+C:\Users\Rodrigo_Freire\source\repos\API_CityEvent\CityEvent.Infra.Data\bin\Debug\net6.0\CityEvent.Core.pdb
+C:\Users\Rodrigo_Freire\source\repos\API_CityEvent\CityEvent.Infra.Data\obj\Debug\net6.0\CityEvent.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Rodrigo_Freire\source\repos\API_CityEvent\CityEvent.Infra.Data\obj\Debug\net6.0\CityEvent.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo_Freire\source\repos\API_CityEvent\CityEvent.Infra.Data\obj\Debug\net6.0\CityEvent.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Rodrigo_Freire\source\repos\API_CityEvent\CityEvent.Infra.Data\obj\Debug\net6.0\CityEvent.Infra.Data.AssemblyInfo.cs
+C:\Users\Rodrigo_Freire\source\repos\API_CityEvent\CityEvent.Infra.Data\obj\Debug\net6.0\CityEvent.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo_Freire\source\repos\API_CityEvent\CityEvent.Infra.Data\obj\Debug\net6.0\CityEvent.Infra.Data.csproj.CopyComplete
+C:\Users\Rodrigo_Freire\source\repos\API_CityEvent\CityEvent.Infra.Data\obj\Debug\net6.0\CityEvent.Infra.Data.dll
+C:\Users\Rodrigo_Freire\source\repos\API_CityEvent\CityEvent.Infra.Data\obj\Debug\net6.0\refint\CityEvent.Infra.Data.dll
+C:\Users\Rodrigo_Freire\source\repos\API_CityEvent\CityEvent.Infra.Data\obj\Debug\net6.0\CityEvent.Infra.Data.pdb
+C:\Users\Rodrigo_Freire\source\repos\API_CityEvent\CityEvent.Infra.Data\obj\Debug\net6.0\ref\CityEvent.Infra.Data.dll

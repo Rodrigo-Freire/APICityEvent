@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "nIX6nCNsZk1YQ6j1VOwbf7nQ5R6gK4exvjb6Gp6k7hoyBmUQjxDCAiZ03jFK0ZRFedrVHmomj7S5ydD0Jsh4AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rodrigo_Freire\\source\\repos\\API_CityEvent\\APICityEvent\\APICityEvent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodrigo_Freire\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Rodrigo_Freire\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rodrigo_Freire\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Rodrigo_Freire\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
+    "C:\\Users\\Rodrigo_Freire\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rodrigo_Freire\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rodrigo_Freire\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rodrigo_Freire\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

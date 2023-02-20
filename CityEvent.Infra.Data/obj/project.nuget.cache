@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b5lVfivPLY2Q5Lmy0uXr+taL8SeSsaEWBQGE2FU6pUapQJm205UeJMqaxqA9V/TaYBT9yVf1Q8Zr2E8gBToRcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rodrigo_Freire\\source\\repos\\API_CityEvent\\CityEvent.Infra.Data\\CityEvent.Infra.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodrigo_Freire\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Rodrigo_Freire\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
